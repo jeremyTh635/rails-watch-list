@@ -14,3 +14,5 @@ Movie.create(title: "Ocean's Eight", overview: "Debbie Ocean, a criminal masterm
 Movie.create(title: "The Godfather", overview: "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family.", poster_url: "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg", rating: 8.7)
 Movie.create(title: "The Dark Knight", overview: "Batman raises the stakes in his war on crime.", poster_url: "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg", rating: 8.5)
 Movie.create(title: "The Green Mile", overview: "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments.", poster_url: "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg", rating: 8.5)
+List.create(name: "Prison")
+List.create(name: "Crime")
